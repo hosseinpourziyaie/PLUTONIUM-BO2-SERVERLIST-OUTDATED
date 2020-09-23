@@ -2,6 +2,7 @@
 php plutonium bo2 web serverlist based on api(outdated)
 
 sorry code might be messy. i didnt had time to clean it
+
 more readme will be added later ...
 
 back in 2019 this serverlist would looked like this(however i have included one api sample from then that you can use for experimental)
